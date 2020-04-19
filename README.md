@@ -13,6 +13,12 @@ ROZ GROLSCH.
 AO is relatively flat to the South, with water to the South.
 Northern part of the AO includes peaks at 4300 feet.
 
+### Time
+21st June.
+Server start at 1700Z, time in mission will then be 1500G. At event start, local time in mission will be 1600G.
+
+### Wx
+
 Clear skies, calm wind from EAST.
 
 ### Enemy forces
