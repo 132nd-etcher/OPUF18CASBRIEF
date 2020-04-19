@@ -2,7 +2,7 @@
 
 J-TAC VIKING currently in transit to AO; situation is provisional.
 
-Please download this [customized CombatFlite file for CAS in GROLSCH](OPUF_MSN_18_CAS_GROLSCH.cf).
+Additional reference material: [CombatFlite file for CAS in GROLSCH](OPUF_MSN_18_CAS_GROLSCH.cf).
 
 ## SITUATION
 
