@@ -26,3 +26,11 @@ JTAC Freq: 119.250 (RED 11) Secondary freq: 33.50 (BROWN 4)
 CAS in support of planned friendly offensive in ROZ GROLSCH.
 Last 24 hours, friendly forces have started their offensive toward the WEST and have captured BANDAR LENGEH. Friendly forces are preparing to continue their offensive with Close Air Support overhead.
 JTAC Freq: 119.250 (RED 11) Secondary freq: 33.50 (BROWN 4)
+
+## AO overview
+
+![AO_overview](img/img1.png)
+
+## Coordination
+
+![ACMs](img/img2.png)
