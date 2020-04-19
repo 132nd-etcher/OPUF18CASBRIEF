@@ -103,8 +103,10 @@ J-TAC VIKING to provide CAS in preparation and in support of friendly advance to
 
 ### Scheme of movement and manoeuver
 
-* Phase 1: CAS to shape battlefield in rpreparation of friendly advance
-* Phase 2: friendly forces to advance towards JENAH with CAS
+* Phase 1: CAS to shape battlefield in rpreparation of friendly advance.
+* Phase 2: friendly forces to advance towards JENAH with CAS.
+ * Part of friendly forces will advance and block NW of ECHO;
+ * Rest will push towards JENAH.
 
 ### CASEVAC
 
@@ -113,6 +115,8 @@ Casualties and downed pilots will be evacuated to FOB Bandar Lengeh by ground fo
 No DUSTOFF available.
 
 ### Coordinating instructions
+
+All flights to report "ANNABELLE" during CAS check-in.
 
 #### AO overview
 
@@ -136,7 +140,7 @@ No DUSTOFF available.
 | HA WHISKY   | center N 26 38.600 E 054 11.200 | radius 5nm, from FL1000 to FL250 |
 | HA ECHO     | center N 26 44.600 E 054 47.300 | radius 5nm, from FL1000 to FL250 |
 | HA SIERRA 1 | center N 26 28.000 E 054 23.500 | radius 5mn, from FL1000 to FL250 |
-| HA SIERRA 2 | center N 26 28.400 E 054 37.600 | radius 5mn, from FL1000 to FL250 |
+| HA SIERRA 2 | center N 26 28.400 E 054 47.500 | radius 5mn, from FL1000 to FL250 |
 | IP M7       | N 26 40.000 E 054 20.000        |                                  |
 | IP M9       | N 26 40.000 E 055 00.000        |                                  |
 | IP ALASKA   | N 26 31.000 E 054 26.000        |                                  |
@@ -166,7 +170,7 @@ RW assets to stay ground-5000ft when established in HAs/BPs/ABFs.
 
 FFA SEQUOYA and FFA CHEYENNE to be considered INACTIVE unless directly confirmed otherwise by and authenticated communication from VIKING or OVERLORD.
 
-All flights to report "ANNABELLE" during CAS check-in.
+COBRA flight to conserve 40% of AGMs for popup targets.
 
 ## COMMAND AND CONTROL
 
@@ -188,9 +192,15 @@ Do not send BDA to In-Flight report net unless otherwise stated.
 
 #### Methods of communication
 
+Same frequency for Attack and Brief.
+
 PRIMARY: 119.250 (RED 11) 
 
 SECONDARY: 33.50 (BROWN 4)
+
+##### Radio ACK order
+
+AXE CLAW COBRA.
 
 #### Signals
 
@@ -206,26 +216,6 @@ IAW with [SPINS](https://132nd-vwing.github.io/OPUF-Brief/Docs/SPINS.html) and [
 
 IAW with [SPINS_18](https://132nd-vwing.github.io/OPUF-Brief/Docs/SPINS_18.html).
 
-### Friendly positions at event start
-
-* 2 Coy (4 Pl) + artillery at village South of BQ56 (marked "Friendly position 1").
-* 1 Pl at village West of BA54 (marked "Friendly position 2").
-
-## Objective
-
-Friendly forces to push towards town of JENAH BQ39.
-
-## GC (Ground Commander intentions)
-
-## Sequence
-
-1. Friendly forces will hold at "Friendly position 1" and "Friendly position 2".
-2. CAS to disable enemy forces in the area.
-3. Friendly forces at "Friendly position 1" (BQ56) will split and push to:
-  * NW of BQ56, then hold;
-  * N of BQ56, then keep pushing towards JENAH.
-4. CAS to support advance towards JENAH if able.
-
 ## RFI (Request For Information)
 
 * All FL to provide VIKING ability to extend VUL.
@@ -239,3 +229,7 @@ All assets to maximize loiter time.
   * combat mix.
 * RW assets:
   * AGMs;
+  
+## Threats
+
+Small arms fire.
