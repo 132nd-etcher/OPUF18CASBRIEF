@@ -1,6 +1,6 @@
 # OPUF18 CAS plan VIKING
 
-J-TAC VIKING currently in transit to AO; situation is provisional.
+JTAC VIKING currently in transit to AO; situation is provisional.
 
 Additional reference material: [CombatFlite file for CAS in GROLSCH](OPUF_MSN_18_CAS_GROLSCH.cf).
 
@@ -110,7 +110,7 @@ nil.
 
 ## MISSION
 
-J-TAC VIKING to provide CAS in preparation and in support of friendly advance towards JENAH (BQ39).
+JTAC VIKING to provide CAS in preparation and in support of friendly advance towards JENAH (BQ39).
 
 ## EXECUTION
 
@@ -197,15 +197,15 @@ COBRA flight to conserve 40% of AGMs for popup targets.
 
 ### Control
 
-J-TAC VIKING, on the hill East of BQ56.
+JTAC VIKING, on the hill East of BQ56.
 
-In case J-TAC VIKING becomes unavailable, contact OVERLORD.
+In case JTAC VIKING becomes unavailable, contact OVERLORD.
 
 #### Reports
 
-BDAs to be sent to J-TAC VIKING.
+BDAs to be sent to JTAC VIKING.
 
-J-TAC VIKING will confirm BDA during egress and transmit consolidated BDA to C2.
+JTAC VIKING will confirm BDA during egress and transmit consolidated BDA to C2.
 
 Do not send BDA to In-Flight report net unless otherwise stated.
 
