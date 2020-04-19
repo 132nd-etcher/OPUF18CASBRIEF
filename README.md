@@ -158,6 +158,7 @@ All flights to report "ANNABELLE" during CAS check-in.
 | IP ALASKA   | N 26 31.000 E 054 26.000        |                                  |
 | IP ARIZONA  | N 26 27.000 E 054 48.000        |                                  |
 
+
 ##### RW assets
 
 | Label      | Coordinates                     | Remarks                                                                                 |
