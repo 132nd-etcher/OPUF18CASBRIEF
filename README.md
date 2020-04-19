@@ -117,8 +117,8 @@ J-TAC VIKING to provide CAS in preparation and in support of friendly advance to
 
 * Phase 1: CAS to shape battlefield in rpreparation of friendly advance.
 * Phase 2: friendly forces to advance towards JENAH with CAS.
- * Part of friendly forces will advance and block NW of ECHO;
- * Rest will push towards JENAH.
+  * Part of friendly forces will advance and block NW of ECHO;
+  * Rest will push towards JENAH.
 
 ### CASEVAC
 
