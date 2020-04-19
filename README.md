@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# OPUF18 CAS plan VIKING
 
-You can use the [editor on GitHub](https://github.com/132nd-etcher/OPUF18CASBRIEF/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Participants
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ref [OPUF18 ATO](https://132nd-vwing.github.io/OPUF-Brief/Docs/ATO/ATO_18.html)
 
-### Markdown
+### AXE (A-10)
+CAS in support of JTAC VIKING in ROZ GROLSCH.
+CP: Overhead Bandar Lenge Airport, above 10.000ft.
+VUL: 1850Z-2000Z
+JTAC Freq: 119.250 (RED 11) Secondary freq: 33.50 (BROWN 4)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### CLAW (A-10)
+CAS in support of JTAC VIKING in ROZ GROLSCH.
+CP: Overhead Bandar Lenge Airport, above 10.000ft.
+VUL: 1900Z-2010Z
+JTAC Freq: 119.250 (RED 11) Secondary freq: 33.50 (BROWN 4)
 
-```markdown
-Syntax highlighted code block
+### COBRA (KA-50)
+CAS in support of JTAC VIKING in ROZ GROLSCH.
+CP: When airborne, out from FOB BANDAR LENGEH
+VUL: 1850Z-2000Z
+JTAC Freq: 119.250 (RED 11) Secondary freq: 33.50 (BROWN 4)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/132nd-etcher/OPUF18CASBRIEF/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### JTAC VIKING
+CAS in support of planned friendly offensive in ROZ GROLSCH.
+Last 24 hours, friendly forces have started their offensive toward the WEST and have captured BANDAR LENGEH. Friendly forces are preparing to continue their offensive with Close Air Support overhead.
+JTAC Freq: 119.250 (RED 11) Secondary freq: 33.50 (BROWN 4)
