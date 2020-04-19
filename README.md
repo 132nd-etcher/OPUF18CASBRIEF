@@ -179,9 +179,11 @@ FW assets to stay FL100-FL250 when established in HAs.
 
 RW assets to stay ground-5000ft when established in HAs/BPs/ABFs.
 
-### Rules of engagement
+### Free Fire Areas
 
 FFA SEQUOYA and FFA CHEYENNE to be considered INACTIVE unless directly confirmed otherwise by and authenticated communication from VIKING or OVERLORD.
+
+### Remarks
 
 COBRA flight to conserve 40% of AGMs for popup targets.
 
