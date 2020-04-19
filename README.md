@@ -1,6 +1,8 @@
 # OPUF18 CAS plan VIKING
 
-J-TAC VIKING currently in transit to AO; situation is provisional. 
+J-TAC VIKING currently in transit to AO; situation is provisional.
+
+[CombatFlite file](OPUF_MSN_18_CAS_GROLSCH.cf).
 
 ## SITUATION
 
